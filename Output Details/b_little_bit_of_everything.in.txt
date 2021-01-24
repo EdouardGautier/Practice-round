@@ -1,0 +1,1522 @@
+--------------------------------------------------------------------------------
+b_little_bit_of_everything.in
+
+There are 185 teams with 550 people.
+172 teams were delivered with 498 pizzas.
+There are 100,941 different ingredients.
+Execution time: 00h 00min 00s
+Score: 10 189
+
+Team n°25 with 2 members, ordered 2 pizzas:
+	Pizza n°156 with 6 ingredients:
+		tomatoes, onions, neapolitan-crust, emmental-cheese, mozzarella, cheddar, 
+	Pizza n°231 with 4 ingredients:
+		mushrooms, pineapple, basil, ham, 
+There are 10 different ingredients.
+
+Team n°30 with 2 members, ordered 2 pizzas:
+	Pizza n°443 with 6 ingredients:
+		mushrooms, ham, basil, emmental-cheese, mozzarella, cheddar, 
+	Pizza n°240 with 4 ingredients:
+		tomatoes, onions, pineapple, neapolitan-crust, 
+There are 10 different ingredients.
+
+Team n°44 with 2 members, ordered 2 pizzas:
+	Pizza n°463 with 5 ingredients:
+		tomatoes, onions, pineapple, emmental-cheese, cheddar, 
+	Pizza n°258 with 4 ingredients:
+		mushrooms, ham, basil, neapolitan-crust, 
+There are 9 different ingredients.
+
+Team n°47 with 2 members, ordered 2 pizzas:
+	Pizza n°20 with 4 ingredients:
+		pineapple, ham, emmental-cheese, mozzarella, 
+	Pizza n°311 with 4 ingredients:
+		mushrooms, tomatoes, basil, neapolitan-crust, 
+There are 8 different ingredients.
+
+Team n°43 with 2 members, ordered 2 pizzas:
+	Pizza n°451 with 5 ingredients:
+		mushrooms, tomatoes, pineapple, mozzarella, cheddar, 
+	Pizza n°360 with 4 ingredients:
+		onions, basil, ham, neapolitan-crust, 
+There are 9 different ingredients.
+
+Team n°54 with 2 members, ordered 2 pizzas:
+	Pizza n°288 with 4 ingredients:
+		mushrooms, ham, emmental-cheese, mozzarella, 
+	Pizza n°385 with 4 ingredients:
+		tomatoes, pineapple, basil, cheddar, 
+There are 8 different ingredients.
+
+Team n°58 with 2 members, ordered 2 pizzas:
+	Pizza n°430 with 4 ingredients:
+		mushrooms, ham, mozzarella, cheddar, 
+	Pizza n°455 with 4 ingredients:
+		tomatoes, pineapple, basil, emmental-cheese, 
+There are 8 different ingredients.
+
+Team n°46 with 2 members, ordered 2 pizzas:
+	Pizza n°15 with 4 ingredients:
+		mushrooms, emmental-cheese, mozzarella, cheddar, 
+	Pizza n°8 with 3 ingredients:
+		pineapple, ham, neapolitan-crust, 
+There are 7 different ingredients.
+
+Team n°49 with 2 members, ordered 2 pizzas:
+	Pizza n°147 with 4 ingredients:
+		ham, neapolitan-crust, basil, cheddar, 
+	Pizza n°3 with 3 ingredients:
+		tomatoes, emmental-cheese, mozzarella, 
+There are 7 different ingredients.
+
+Team n°31 with 2 members, ordered 2 pizzas:
+	Pizza n°484 with 6 ingredients:
+		mushrooms, tomatoes, pineapple, ham, basil, mozzarella, 
+	Pizza n°23 with 3 ingredients:
+		neapolitan-crust, emmental-cheese, cheddar, 
+There are 9 different ingredients.
+
+Team n°35 with 2 members, ordered 2 pizzas:
+	Pizza n°113 with 5 ingredients:
+		mushrooms, tomatoes, pineapple, basil, ham, 
+	Pizza n°65 with 3 ingredients:
+		neapolitan-crust, emmental-cheese, cheddar, 
+There are 8 different ingredients.
+
+Team n°24 with 2 members, ordered 2 pizzas:
+	Pizza n°120 with 6 ingredients:
+		pineapple, ham, neapolitan-crust, basil, mozzarella, cheddar, 
+	Pizza n°91 with 3 ingredients:
+		mushrooms, tomatoes, emmental-cheese, 
+There are 9 different ingredients.
+
+Team n°32 with 2 members, ordered 2 pizzas:
+	Pizza n°0 with 5 ingredients:
+		mushrooms, onions, neapolitan-crust, emmental-cheese, cheddar, 
+	Pizza n°121 with 3 ingredients:
+		pineapple, basil, ham, 
+There are 8 different ingredients.
+
+Team n°36 with 2 members, ordered 2 pizzas:
+	Pizza n°166 with 5 ingredients:
+		mushrooms, tomatoes, onions, ham, cheddar, 
+	Pizza n°105 with 3 ingredients:
+		neapolitan-crust, basil, emmental-cheese, 
+There are 8 different ingredients.
+
+Team n°38 with 2 members, ordered 2 pizzas:
+	Pizza n°261 with 5 ingredients:
+		mushrooms, tomatoes, pineapple, neapolitan-crust, ham, 
+	Pizza n°31 with 3 ingredients:
+		onions, basil, cheddar, 
+There are 8 different ingredients.
+
+Team n°34 with 2 members, ordered 2 pizzas:
+	Pizza n°108 with 5 ingredients:
+		mushrooms, tomatoes, basil, neapolitan-crust, emmental-cheese, 
+	Pizza n°159 with 3 ingredients:
+		pineapple, mozzarella, cheddar, 
+There are 8 different ingredients.
+
+Team n°40 with 2 members, ordered 2 pizzas:
+	Pizza n°329 with 5 ingredients:
+		tomatoes, pineapple, ham, mozzarella, cheddar, 
+	Pizza n°139 with 3 ingredients:
+		mushrooms, onions, emmental-cheese, 
+There are 8 different ingredients.
+
+Team n°37 with 2 members, ordered 2 pizzas:
+	Pizza n°221 with 5 ingredients:
+		tomatoes, pineapple, basil, emmental-cheese, cheddar, 
+	Pizza n°89 with 3 ingredients:
+		mushrooms, neapolitan-crust, ham, 
+There are 8 different ingredients.
+
+Team n°48 with 2 members, ordered 2 pizzas:
+	Pizza n°60 with 4 ingredients:
+		mushrooms, tomatoes, basil, emmental-cheese, 
+	Pizza n°163 with 3 ingredients:
+		pineapple, ham, neapolitan-crust, 
+There are 7 different ingredients.
+
+Team n°23 with 2 members, ordered 2 pizzas:
+	Pizza n°72 with 6 ingredients:
+		mushrooms, tomatoes, basil, ham, emmental-cheese, cheddar, 
+	Pizza n°218 with 3 ingredients:
+		onions, pineapple, mozzarella, 
+There are 9 different ingredients.
+
+Team n°42 with 2 members, ordered 2 pizzas:
+	Pizza n°434 with 5 ingredients:
+		tomatoes, ham, basil, emmental-cheese, mozzarella, 
+	Pizza n°203 with 3 ingredients:
+		mushrooms, pineapple, neapolitan-crust, 
+There are 8 different ingredients.
+
+Team n°50 with 2 members, ordered 2 pizzas:
+	Pizza n°181 with 4 ingredients:
+		tomatoes, ham, neapolitan-crust, emmental-cheese, 
+	Pizza n°192 with 3 ingredients:
+		mushrooms, onions, basil, 
+There are 7 different ingredients.
+
+Team n°53 with 2 members, ordered 2 pizzas:
+	Pizza n°273 with 4 ingredients:
+		tomatoes, pineapple, emmental-cheese, cheddar, 
+	Pizza n°230 with 3 ingredients:
+		mushrooms, onions, basil, 
+There are 7 different ingredients.
+
+Team n°60 with 2 members, ordered 2 pizzas:
+	Pizza n°498 with 4 ingredients:
+		mushrooms, emmental-cheese, mozzarella, cheddar, 
+	Pizza n°180 with 3 ingredients:
+		tomatoes, pineapple, ham, 
+There are 7 different ingredients.
+
+Team n°56 with 2 members, ordered 2 pizzas:
+	Pizza n°396 with 4 ingredients:
+		tomatoes, emmental-cheese, mozzarella, cheddar, 
+	Pizza n°278 with 3 ingredients:
+		onions, neapolitan-crust, basil, 
+There are 7 different ingredients.
+
+Team n°57 with 2 members, ordered 2 pizzas:
+	Pizza n°409 with 4 ingredients:
+		tomatoes, ham, basil, cheddar, 
+	Pizza n°268 with 3 ingredients:
+		mushrooms, neapolitan-crust, mozzarella, 
+There are 7 different ingredients.
+
+Team n°61 with 2 members, ordered 2 pizzas:
+	Pizza n°13 with 3 ingredients:
+		mushrooms, tomatoes, mozzarella, 
+	Pizza n°294 with 3 ingredients:
+		pineapple, neapolitan-crust, emmental-cheese, 
+There are 6 different ingredients.
+
+Team n°45 with 2 members, ordered 2 pizzas:
+	Pizza n°486 with 5 ingredients:
+		tomatoes, onions, neapolitan-crust, emmental-cheese, mozzarella, 
+	Pizza n°345 with 3 ingredients:
+		pineapple, basil, cheddar, 
+There are 8 different ingredients.
+
+Team n°64 with 2 members, ordered 2 pizzas:
+	Pizza n°351 with 3 ingredients:
+		mushrooms, tomatoes, ham, 
+	Pizza n°362 with 3 ingredients:
+		pineapple, neapolitan-crust, mozzarella, 
+There are 6 different ingredients.
+
+Team n°51 with 2 members, ordered 2 pizzas:
+	Pizza n°193 with 4 ingredients:
+		tomatoes, pineapple, neapolitan-crust, mozzarella, 
+	Pizza n°388 with 3 ingredients:
+		mushrooms, onions, basil, 
+There are 7 different ingredients.
+
+Team n°62 with 2 members, ordered 2 pizzas:
+	Pizza n°242 with 3 ingredients:
+		tomatoes, neapolitan-crust, emmental-cheese, 
+	Pizza n°392 with 3 ingredients:
+		mushrooms, ham, mozzarella, 
+There are 6 different ingredients.
+
+Team n°29 with 2 members, ordered 2 pizzas:
+	Pizza n°337 with 6 ingredients:
+		onions, neapolitan-crust, ham, basil, emmental-cheese, mozzarella, 
+	Pizza n°407 with 3 ingredients:
+		mushrooms, tomatoes, pineapple, 
+There are 9 different ingredients.
+
+Team n°52 with 2 members, ordered 2 pizzas:
+	Pizza n°208 with 4 ingredients:
+		mushrooms, pineapple, basil, emmental-cheese, 
+	Pizza n°422 with 3 ingredients:
+		tomatoes, ham, mozzarella, 
+There are 7 different ingredients.
+
+Team n°63 with 2 members, ordered 2 pizzas:
+	Pizza n°328 with 3 ingredients:
+		mushrooms, ham, mozzarella, 
+	Pizza n°400 with 3 ingredients:
+		neapolitan-crust, emmental-cheese, cheddar, 
+There are 6 different ingredients.
+
+Team n°39 with 2 members, ordered 2 pizzas:
+	Pizza n°298 with 5 ingredients:
+		mushrooms, pineapple, neapolitan-crust, ham, mozzarella, 
+	Pizza n°449 with 3 ingredients:
+		onions, basil, cheddar, 
+There are 8 different ingredients.
+
+Team n°55 with 2 members, ordered 2 pizzas:
+	Pizza n°324 with 4 ingredients:
+		pineapple, ham, neapolitan-crust, mozzarella, 
+	Pizza n°467 with 3 ingredients:
+		mushrooms, tomatoes, emmental-cheese, 
+There are 7 different ingredients.
+
+Team n°18 with 2 members, ordered 2 pizzas:
+	Pizza n°154 with 7 ingredients:
+		mushrooms, tomatoes, onions, pineapple, neapolitan-crust, emmental-cheese, mozzarella, 
+	Pizza n°16 with 2 ingredients:
+		basil, cheddar, 
+There are 9 different ingredients.
+
+Team n°41 with 2 members, ordered 2 pizzas:
+	Pizza n°371 with 5 ingredients:
+		mushrooms, ham, neapolitan-crust, emmental-cheese, cheddar, 
+	Pizza n°25 with 2 ingredients:
+		pineapple, mozzarella, 
+There are 7 different ingredients.
+
+Team n°12 with 2 members, ordered 2 pizzas:
+	Pizza n°256 with 8 ingredients:
+		mushrooms, tomatoes, pineapple, ham, neapolitan-crust, basil, emmental-cheese, mozzarella, 
+	Pizza n°32 with 2 ingredients:
+		onions, cheddar, 
+There are 10 different ingredients.
+
+Team n°17 with 2 members, ordered 2 pizzas:
+	Pizza n°17 with 7 ingredients:
+		tomatoes, pineapple, neapolitan-crust, basil, emmental-cheese, mozzarella, cheddar, 
+	Pizza n°44 with 2 ingredients:
+		mushrooms, onions, 
+There are 9 different ingredients.
+
+Team n°33 with 2 members, ordered 2 pizzas:
+	Pizza n°48 with 5 ingredients:
+		mushrooms, pineapple, ham, basil, emmental-cheese, 
+	Pizza n°54 with 2 ingredients:
+		onions, neapolitan-crust, 
+There are 7 different ingredients.
+
+Team n°13 with 2 members, ordered 2 pizzas:
+	Pizza n°299 with 8 ingredients:
+		mushrooms, tomatoes, onions, pineapple, neapolitan-crust, ham, basil, emmental-cheese, 
+	Pizza n°69 with 2 ingredients:
+		mozzarella, cheddar, 
+There are 10 different ingredients.
+
+Team n°27 with 2 members, ordered 2 pizzas:
+	Pizza n°213 with 6 ingredients:
+		mushrooms, pineapple, basil, ham, neapolitan-crust, mozzarella, 
+	Pizza n°81 with 2 ingredients:
+		emmental-cheese, cheddar, 
+There are 8 different ingredients.
+
+Team n°28 with 2 members, ordered 2 pizzas:
+	Pizza n°301 with 6 ingredients:
+		mushrooms, tomatoes, pineapple, neapolitan-crust, basil, emmental-cheese, 
+	Pizza n°79 with 2 ingredients:
+		onions, mozzarella, 
+There are 8 different ingredients.
+
+Team n°6 with 3 members, ordered 3 pizzas:
+	Pizza n°46 with 2 ingredients:
+		pineapple, neapolitan-crust, 
+	Pizza n°76 with 2 ingredients:
+		mushrooms, emmental-cheese, 
+	Pizza n°95 with 2 ingredients:
+		tomatoes, onions, 
+There are 6 different ingredients.
+
+Team n°22 with 2 members, ordered 2 pizzas:
+	Pizza n°11 with 6 ingredients:
+		mushrooms, tomatoes, ham, neapolitan-crust, mozzarella, cheddar, 
+	Pizza n°106 with 2 ingredients:
+		onions, basil, 
+There are 8 different ingredients.
+
+Team n°59 with 2 members, ordered 2 pizzas:
+	Pizza n°439 with 4 ingredients:
+		mushrooms, tomatoes, onions, neapolitan-crust, 
+	Pizza n°109 with 2 ingredients:
+		basil, emmental-cheese, 
+There are 6 different ingredients.
+
+Team n°19 with 2 members, ordered 2 pizzas:
+	Pizza n°212 with 7 ingredients:
+		mushrooms, tomatoes, ham, neapolitan-crust, basil, mozzarella, cheddar, 
+	Pizza n°124 with 2 ingredients:
+		onions, emmental-cheese, 
+There are 9 different ingredients.
+
+Team n°3 with 3 members, ordered 3 pizzas:
+	Pizza n°427 with 3 ingredients:
+		tomatoes, ham, neapolitan-crust, 
+	Pizza n°40 with 2 ingredients:
+		mushrooms, emmental-cheese, 
+	Pizza n°116 with 2 ingredients:
+		pineapple, mozzarella, 
+There are 7 different ingredients.
+
+Team n°5 with 3 members, ordered 3 pizzas:
+	Pizza n°438 with 3 ingredients:
+		onions, neapolitan-crust, ham, 
+	Pizza n°59 with 2 ingredients:
+		emmental-cheese, mozzarella, 
+	Pizza n°114 with 2 ingredients:
+		tomatoes, pineapple, 
+There are 7 different ingredients.
+
+Team n°14 with 2 members, ordered 2 pizzas:
+	Pizza n°315 with 8 ingredients:
+		tomatoes, onions, pineapple, neapolitan-crust, ham, emmental-cheese, mozzarella, cheddar, 
+	Pizza n°144 with 2 ingredients:
+		mushrooms, basil, 
+There are 10 different ingredients.
+
+Team n°26 with 2 members, ordered 2 pizzas:
+	Pizza n°170 with 6 ingredients:
+		mushrooms, tomatoes, basil, neapolitan-crust, mozzarella, cheddar, 
+	Pizza n°136 with 2 ingredients:
+		onions, pineapple, 
+There are 8 different ingredients.
+
+Team n°1 with 3 members, ordered 3 pizzas:
+	Pizza n°397 with 3 ingredients:
+		pineapple, neapolitan-crust, emmental-cheese, 
+	Pizza n°444 with 3 ingredients:
+		tomatoes, onions, ham, 
+	Pizza n°153 with 2 ingredients:
+		mushrooms, cheddar, 
+There are 8 different ingredients.
+
+Team n°2 with 3 members, ordered 3 pizzas:
+	Pizza n°375 with 3 ingredients:
+		mushrooms, tomatoes, neapolitan-crust, 
+	Pizza n°27 with 2 ingredients:
+		emmental-cheese, mozzarella, 
+	Pizza n°198 with 2 ingredients:
+		onions, ham, 
+There are 7 different ingredients.
+
+Team n°8 with 3 members, ordered 3 pizzas:
+	Pizza n°101 with 2 ingredients:
+		tomatoes, neapolitan-crust, 
+	Pizza n°174 with 2 ingredients:
+		ham, mozzarella, 
+	Pizza n°204 with 2 ingredients:
+		emmental-cheese, cheddar, 
+There are 6 different ingredients.
+
+Team n°21 with 2 members, ordered 2 pizzas:
+	Pizza n°414 with 7 ingredients:
+		onions, pineapple, neapolitan-crust, ham, emmental-cheese, mozzarella, cheddar, 
+	Pizza n°254 with 2 ingredients:
+		mushrooms, tomatoes, 
+There are 9 different ingredients.
+
+Team n°10 with 3 members, ordered 3 pizzas:
+	Pizza n°186 with 2 ingredients:
+		onions, neapolitan-crust, 
+	Pizza n°244 with 2 ingredients:
+		mushrooms, ham, 
+	Pizza n°247 with 2 ingredients:
+		emmental-cheese, cheddar, 
+There are 6 different ingredients.
+
+Team n°7 with 3 members, ordered 3 pizzas:
+	Pizza n°151 with 2 ingredients:
+		tomatoes, ham, 
+	Pizza n°164 with 2 ingredients:
+		onions, emmental-cheese, 
+	Pizza n°274 with 2 ingredients:
+		pineapple, cheddar, 
+There are 6 different ingredients.
+
+Team n°15 with 2 members, ordered 2 pizzas:
+	Pizza n°330 with 8 ingredients:
+		tomatoes, onions, pineapple, basil, neapolitan-crust, ham, emmental-cheese, cheddar, 
+	Pizza n°295 with 2 ingredients:
+		mushrooms, mozzarella, 
+There are 10 different ingredients.
+
+Team n°9 with 3 members, ordered 3 pizzas:
+	Pizza n°129 with 2 ingredients:
+		neapolitan-crust, emmental-cheese, 
+	Pizza n°233 with 2 ingredients:
+		tomatoes, ham, 
+	Pizza n°285 with 2 ingredients:
+		mushrooms, onions, 
+There are 6 different ingredients.
+
+Team n°11 with 2 members, ordered 2 pizzas:
+	Pizza n°14 with 8 ingredients:
+		mushrooms, onions, pineapple, neapolitan-crust, ham, basil, emmental-cheese, cheddar, 
+	Pizza n°359 with 2 ingredients:
+		tomatoes, mozzarella, 
+There are 10 different ingredients.
+
+Team n°4 with 3 members, ordered 3 pizzas:
+	Pizza n°431 with 3 ingredients:
+		onions, ham, neapolitan-crust, 
+	Pizza n°474 with 3 ingredients:
+		tomatoes, pineapple, emmental-cheese, 
+	Pizza n°363 with 2 ingredients:
+		mushrooms, cheddar, 
+There are 8 different ingredients.
+
+Team n°11 with 3 members, ordered 3 pizzas:
+	Pizza n°217 with 2 ingredients:
+		onions, neapolitan-crust, 
+	Pizza n°282 with 2 ingredients:
+		pineapple, cheddar, 
+	Pizza n°377 with 2 ingredients:
+		tomatoes, mozzarella, 
+There are 6 different ingredients.
+
+Team n°12 with 3 members, ordered 3 pizzas:
+	Pizza n°267 with 2 ingredients:
+		tomatoes, basil, 
+	Pizza n°332 with 2 ingredients:
+		mushrooms, neapolitan-crust, 
+	Pizza n°395 with 2 ingredients:
+		onions, ham, 
+There are 6 different ingredients.
+
+Team n°16 with 2 members, ordered 2 pizzas:
+	Pizza n°454 with 8 ingredients:
+		mushrooms, tomatoes, onions, neapolitan-crust, basil, ham, mozzarella, cheddar, 
+	Pizza n°468 with 2 ingredients:
+		pineapple, emmental-cheese, 
+There are 10 different ingredients.
+
+Team n°14 with 3 members, ordered 3 pizzas:
+	Pizza n°372 with 2 ingredients:
+		basil, neapolitan-crust, 
+	Pizza n°379 with 2 ingredients:
+		tomatoes, ham, 
+	Pizza n°460 with 2 ingredients:
+		mushrooms, onions, 
+There are 6 different ingredients.
+
+Team n°7 with 2 members, ordered 2 pizzas:
+	Pizza n°12 with 9 ingredients:
+		mushrooms, tomatoes, onions, ham, basil, neapolitan-crust, emmental-cheese, mozzarella, cheddar, 
+	Pizza n°4 with 1 ingredients:
+		pineapple, 
+There are 10 different ingredients.
+
+Team n°13 with 3 members, ordered 3 pizzas:
+	Pizza n°307 with 2 ingredients:
+		tomatoes, onions, 
+	Pizza n°341 with 2 ingredients:
+		basil, neapolitan-crust, 
+	Pizza n°30 with 1 ingredients:
+		mozzarella, 
+There are 5 different ingredients.
+
+Team n°20 with 2 members, ordered 2 pizzas:
+	Pizza n°352 with 7 ingredients:
+		mushrooms, tomatoes, onions, basil, neapolitan-crust, mozzarella, cheddar, 
+	Pizza n°43 with 1 ingredients:
+		ham, 
+There are 8 different ingredients.
+
+Team n°10 with 2 members, ordered 2 pizzas:
+	Pizza n°482 with 9 ingredients:
+		mushrooms, tomatoes, onions, pineapple, basil, neapolitan-crust, ham, mozzarella, cheddar, 
+	Pizza n°57 with 1 ingredients:
+		emmental-cheese, 
+There are 10 different ingredients.
+
+Team n°16 with 3 members, ordered 3 pizzas:
+	Pizza n°432 with 2 ingredients:
+		tomatoes, neapolitan-crust, 
+	Pizza n°39 with 1 ingredients:
+		onions, 
+	Pizza n°51 with 1 ingredients:
+		basil, 
+There are 4 different ingredients.
+
+Team n°15 with 3 members, ordered 3 pizzas:
+	Pizza n°411 with 2 ingredients:
+		onions, neapolitan-crust, 
+	Pizza n°450 with 2 ingredients:
+		tomatoes, basil, 
+	Pizza n°67 with 1 ingredients:
+		cheddar, 
+There are 5 different ingredients.
+
+Team n°8 with 2 members, ordered 2 pizzas:
+	Pizza n°47 with 9 ingredients:
+		mushrooms, tomatoes, onions, neapolitan-crust, basil, ham, emmental-cheese, mozzarella, cheddar, 
+	Pizza n°77 with 1 ingredients:
+		pineapple, 
+There are 10 different ingredients.
+
+Team n°17 with 3 members, ordered 3 pizzas:
+	Pizza n°494 with 2 ingredients:
+		tomatoes, basil, 
+	Pizza n°85 with 1 ingredients:
+		onions, 
+	Pizza n°88 with 1 ingredients:
+		cheddar, 
+There are 4 different ingredients.
+
+Team n°18 with 3 members, ordered 3 pizzas:
+	Pizza n°62 with 1 ingredients:
+		cheddar, 
+	Pizza n°74 with 1 ingredients:
+		mushrooms, 
+	Pizza n°83 with 1 ingredients:
+		basil, 
+There are 3 different ingredients.
+
+Team n°9 with 2 members, ordered 2 pizzas:
+	Pizza n°300 with 9 ingredients:
+		mushrooms, onions, pineapple, ham, neapolitan-crust, basil, emmental-cheese, mozzarella, cheddar, 
+	Pizza n°110 with 1 ingredients:
+		tomatoes, 
+There are 10 different ingredients.
+
+Team n°19 with 3 members, ordered 3 pizzas:
+	Pizza n°96 with 1 ingredients:
+		basil, 
+	Pizza n°126 with 1 ingredients:
+		onions, 
+	Pizza n°130 with 1 ingredients:
+		pineapple, 
+There are 3 different ingredients.
+
+Team n°20 with 3 members, ordered 3 pizzas:
+	Pizza n°102 with 1 ingredients:
+		neapolitan-crust, 
+	Pizza n°122 with 1 ingredients:
+		ham, 
+	Pizza n°135 with 1 ingredients:
+		pineapple, 
+There are 3 different ingredients.
+
+Team n°21 with 3 members, ordered 3 pizzas:
+	Pizza n°133 with 1 ingredients:
+		mozzarella, 
+	Pizza n°143 with 1 ingredients:
+		emmental-cheese, 
+	Pizza n°146 with 1 ingredients:
+		tomatoes, 
+There are 3 different ingredients.
+
+Team n°22 with 3 members, ordered 3 pizzas:
+	Pizza n°140 with 1 ingredients:
+		neapolitan-crust, 
+	Pizza n°169 with 1 ingredients:
+		onions, 
+	Pizza n°173 with 1 ingredients:
+		mushrooms, 
+There are 3 different ingredients.
+
+Team n°23 with 3 members, ordered 3 pizzas:
+	Pizza n°157 with 1 ingredients:
+		neapolitan-crust, 
+	Pizza n°183 with 1 ingredients:
+		pineapple, 
+	Pizza n°191 with 1 ingredients:
+		basil, 
+There are 3 different ingredients.
+
+Team n°24 with 3 members, ordered 3 pizzas:
+	Pizza n°167 with 1 ingredients:
+		neapolitan-crust, 
+	Pizza n°178 with 1 ingredients:
+		emmental-cheese, 
+	Pizza n°206 with 1 ingredients:
+		cheddar, 
+There are 3 different ingredients.
+
+Team n°25 with 3 members, ordered 3 pizzas:
+	Pizza n°202 with 1 ingredients:
+		mushrooms, 
+	Pizza n°216 with 1 ingredients:
+		mozzarella, 
+	Pizza n°222 with 1 ingredients:
+		ham, 
+There are 3 different ingredients.
+
+Team n°26 with 3 members, ordered 3 pizzas:
+	Pizza n°211 with 1 ingredients:
+		cheddar, 
+	Pizza n°228 with 1 ingredients:
+		pineapple, 
+	Pizza n°239 with 1 ingredients:
+		mozzarella, 
+There are 3 different ingredients.
+
+Team n°27 with 3 members, ordered 3 pizzas:
+	Pizza n°224 with 1 ingredients:
+		tomatoes, 
+	Pizza n°232 with 1 ingredients:
+		pineapple, 
+	Pizza n°248 with 1 ingredients:
+		ham, 
+There are 3 different ingredients.
+
+Team n°28 with 3 members, ordered 3 pizzas:
+	Pizza n°243 with 1 ingredients:
+		mozzarella, 
+	Pizza n°257 with 1 ingredients:
+		onions, 
+	Pizza n°270 with 1 ingredients:
+		pineapple, 
+There are 3 different ingredients.
+
+Team n°29 with 3 members, ordered 3 pizzas:
+	Pizza n°253 with 1 ingredients:
+		emmental-cheese, 
+	Pizza n°262 with 1 ingredients:
+		onions, 
+	Pizza n°287 with 1 ingredients:
+		basil, 
+There are 3 different ingredients.
+
+Team n°30 with 3 members, ordered 3 pizzas:
+	Pizza n°275 with 1 ingredients:
+		pineapple, 
+	Pizza n°296 with 1 ingredients:
+		cheddar, 
+	Pizza n°303 with 1 ingredients:
+		emmental-cheese, 
+There are 3 different ingredients.
+
+Team n°31 with 3 members, ordered 3 pizzas:
+	Pizza n°291 with 1 ingredients:
+		cheddar, 
+	Pizza n°312 with 1 ingredients:
+		mushrooms, 
+	Pizza n°314 with 1 ingredients:
+		onions, 
+There are 3 different ingredients.
+
+Team n°32 with 3 members, ordered 3 pizzas:
+	Pizza n°308 with 1 ingredients:
+		cheddar, 
+	Pizza n°321 with 1 ingredients:
+		mozzarella, 
+	Pizza n°327 with 1 ingredients:
+		tomatoes, 
+There are 3 different ingredients.
+
+Team n°33 with 3 members, ordered 3 pizzas:
+	Pizza n°317 with 1 ingredients:
+		emmental-cheese, 
+	Pizza n°340 with 1 ingredients:
+		pineapple, 
+	Pizza n°343 with 1 ingredients:
+		onions, 
+There are 3 different ingredients.
+
+Team n°34 with 3 members, ordered 3 pizzas:
+	Pizza n°335 with 1 ingredients:
+		onions, 
+	Pizza n°354 with 1 ingredients:
+		emmental-cheese, 
+	Pizza n°357 with 1 ingredients:
+		basil, 
+There are 3 different ingredients.
+
+Team n°35 with 3 members, ordered 3 pizzas:
+	Pizza n°346 with 1 ingredients:
+		emmental-cheese, 
+	Pizza n°374 with 1 ingredients:
+		onions, 
+	Pizza n°381 with 1 ingredients:
+		mushrooms, 
+There are 3 different ingredients.
+
+Team n°36 with 3 members, ordered 3 pizzas:
+	Pizza n°368 with 1 ingredients:
+		neapolitan-crust, 
+	Pizza n°389 with 1 ingredients:
+		emmental-cheese, 
+	Pizza n°398 with 1 ingredients:
+		mozzarella, 
+There are 3 different ingredients.
+
+Team n°37 with 3 members, ordered 3 pizzas:
+	Pizza n°383 with 1 ingredients:
+		pineapple, 
+	Pizza n°408 with 1 ingredients:
+		neapolitan-crust, 
+	Pizza n°426 with 1 ingredients:
+		mushrooms, 
+There are 3 different ingredients.
+
+Team n°38 with 3 members, ordered 3 pizzas:
+	Pizza n°404 with 1 ingredients:
+		cheddar, 
+	Pizza n°415 with 1 ingredients:
+		neapolitan-crust, 
+	Pizza n°440 with 1 ingredients:
+		mozzarella, 
+There are 3 different ingredients.
+
+Team n°39 with 3 members, ordered 3 pizzas:
+	Pizza n°417 with 1 ingredients:
+		neapolitan-crust, 
+	Pizza n°435 with 1 ingredients:
+		ham, 
+	Pizza n°464 with 1 ingredients:
+		tomatoes, 
+There are 3 different ingredients.
+
+Team n°40 with 3 members, ordered 3 pizzas:
+	Pizza n°457 with 1 ingredients:
+		neapolitan-crust, 
+	Pizza n°470 with 1 ingredients:
+		onions, 
+	Pizza n°476 with 1 ingredients:
+		pineapple, 
+There are 3 different ingredients.
+
+Team n°41 with 3 members, ordered 3 pizzas:
+	Pizza n°466 with 1 ingredients:
+		mozzarella, 
+	Pizza n°480 with 1 ingredients:
+		tomatoes, 
+	Pizza n°483 with 1 ingredients:
+		ham, 
+There are 3 different ingredients.
+
+Team n°42 with 3 members, ordered 3 pizzas:
+	Pizza n°478 with 1 ingredients:
+		cheddar, 
+	Pizza n°489 with 1 ingredients:
+		ham, 
+	Pizza n°493 with 1 ingredients:
+		mushrooms, 
+There are 3 different ingredients.
+
+Team n°58 with 3 members, ordered 3 pizzas:
+	Pizza n°462 with 6 ingredients:
+		tomatoes, pineapple, basil, neapolitan-crust, emmental-cheese, cheddar, 
+	Pizza n°18 with 3 ingredients:
+		ham, neapolitan-crust, mozzarella, 
+	Pizza n°225 with 3 ingredients:
+		mushrooms, onions, ham, 
+There are 10 different ingredients.
+
+Team n°59 with 3 members, ordered 3 pizzas:
+	Pizza n°38 with 5 ingredients:
+		mushrooms, tomatoes, onions, basil, cheddar, 
+	Pizza n°177 with 3 ingredients:
+		onions, pineapple, ham, 
+	Pizza n°336 with 3 ingredients:
+		mushrooms, neapolitan-crust, mozzarella, 
+There are 9 different ingredients.
+
+Team n°60 with 3 members, ordered 3 pizzas:
+	Pizza n°111 with 5 ingredients:
+		mushrooms, pineapple, basil, ham, cheddar, 
+	Pizza n°219 with 4 ingredients:
+		mushrooms, tomatoes, onions, emmental-cheese, 
+	Pizza n°403 with 3 ingredients:
+		basil, neapolitan-crust, mozzarella, 
+There are 10 different ingredients.
+
+Team n°51 with 3 members, ordered 3 pizzas:
+	Pizza n°7 with 7 ingredients:
+		mushrooms, onions, pineapple, ham, neapolitan-crust, mozzarella, cheddar, 
+	Pizza n°55 with 3 ingredients:
+		mushrooms, basil, emmental-cheese, 
+	Pizza n°50 with 2 ingredients:
+		tomatoes, cheddar, 
+There are 10 different ingredients.
+
+Team n°54 with 3 members, ordered 3 pizzas:
+	Pizza n°64 with 6 ingredients:
+		tomatoes, onions, pineapple, basil, mozzarella, cheddar, 
+	Pizza n°277 with 4 ingredients:
+		mushrooms, pineapple, neapolitan-crust, ham, 
+	Pizza n°66 with 2 ingredients:
+		neapolitan-crust, emmental-cheese, 
+There are 10 different ingredients.
+
+Team n°50 with 3 members, ordered 3 pizzas:
+	Pizza n°322 with 8 ingredients:
+		tomatoes, onions, basil, ham, neapolitan-crust, emmental-cheese, mozzarella, cheddar, 
+	Pizza n°29 with 2 ingredients:
+		mushrooms, ham, 
+	Pizza n°104 with 2 ingredients:
+		pineapple, neapolitan-crust, 
+There are 10 different ingredients.
+
+Team n°56 with 3 members, ordered 3 pizzas:
+	Pizza n°182 with 6 ingredients:
+		mushrooms, tomatoes, onions, pineapple, emmental-cheese, mozzarella, 
+	Pizza n°19 with 4 ingredients:
+		onions, ham, basil, cheddar, 
+	Pizza n°92 with 2 ingredients:
+		mushrooms, neapolitan-crust, 
+There are 10 different ingredients.
+
+Team n°3 with 4 members, ordered 4 pizzas:
+	Pizza n°210 with 5 ingredients:
+		pineapple, basil, emmental-cheese, mozzarella, cheddar, 
+	Pizza n°473 with 4 ingredients:
+		tomatoes, onions, neapolitan-crust, basil, 
+	Pizza n°78 with 2 ingredients:
+		mushrooms, onions, 
+	Pizza n°112 with 2 ingredients:
+		ham, basil, 
+There are 10 different ingredients.
+
+Team n°9 with 4 members, ordered 4 pizzas:
+	Pizza n°367 with 4 ingredients:
+		mushrooms, pineapple, basil, cheddar, 
+	Pizza n°283 with 3 ingredients:
+		mushrooms, tomatoes, emmental-cheese, 
+	Pizza n°447 with 3 ingredients:
+		tomatoes, neapolitan-crust, ham, 
+	Pizza n°472 with 3 ingredients:
+		onions, ham, mozzarella, 
+There are 10 different ingredients.
+
+Team n°52 with 3 members, ordered 3 pizzas:
+	Pizza n°189 with 7 ingredients:
+		tomatoes, onions, pineapple, basil, ham, mozzarella, cheddar, 
+	Pizza n°263 with 3 ingredients:
+		mushrooms, neapolitan-crust, cheddar, 
+	Pizza n°160 with 2 ingredients:
+		ham, emmental-cheese, 
+There are 10 different ingredients.
+
+Team n°53 with 3 members, ordered 3 pizzas:
+	Pizza n°358 with 7 ingredients:
+		onions, pineapple, neapolitan-crust, ham, emmental-cheese, mozzarella, cheddar, 
+	Pizza n°6 with 3 ingredients:
+		mushrooms, basil, mozzarella, 
+	Pizza n°148 with 2 ingredients:
+		tomatoes, pineapple, 
+There are 10 different ingredients.
+
+Team n°8 with 4 members, ordered 4 pizzas:
+	Pizza n°249 with 4 ingredients:
+		mushrooms, pineapple, basil, emmental-cheese, 
+	Pizza n°353 with 3 ingredients:
+		emmental-cheese, mozzarella, cheddar, 
+	Pizza n°384 with 3 ingredients:
+		tomatoes, neapolitan-crust, ham, 
+	Pizza n°185 with 2 ingredients:
+		onions, cheddar, 
+There are 10 different ingredients.
+
+Team n°6 with 4 members, ordered 4 pizzas:
+	Pizza n°448 with 5 ingredients:
+		mushrooms, tomatoes, ham, basil, emmental-cheese, 
+	Pizza n°90 with 3 ingredients:
+		basil, mozzarella, cheddar, 
+	Pizza n°41 with 2 ingredients:
+		onions, mozzarella, 
+	Pizza n°245 with 2 ingredients:
+		pineapple, basil, 
+There are 9 different ingredients.
+
+Team n°10 with 4 members, ordered 4 pizzas:
+	Pizza n°405 with 4 ingredients:
+		onions, basil, emmental-cheese, cheddar, 
+	Pizza n°132 with 2 ingredients:
+		ham, cheddar, 
+	Pizza n°226 with 2 ingredients:
+		mushrooms, basil, 
+	Pizza n°259 with 2 ingredients:
+		mozzarella, cheddar, 
+There are 7 different ingredients.
+
+Team n°57 with 3 members, ordered 3 pizzas:
+	Pizza n°319 with 6 ingredients:
+		mushrooms, onions, basil, neapolitan-crust, emmental-cheese, mozzarella, 
+	Pizza n°433 with 4 ingredients:
+		pineapple, neapolitan-crust, ham, cheddar, 
+	Pizza n°365 with 2 ingredients:
+		tomatoes, mozzarella, 
+There are 10 different ingredients.
+
+Team n°5 with 4 members, ordered 4 pizzas:
+	Pizza n°350 with 5 ingredients:
+		mushrooms, tomatoes, pineapple, mozzarella, cheddar, 
+	Pizza n°320 with 4 ingredients:
+		onions, ham, basil, cheddar, 
+	Pizza n°347 with 2 ingredients:
+		pineapple, neapolitan-crust, 
+	Pizza n°401 with 2 ingredients:
+		emmental-cheese, mozzarella, 
+There are 10 different ingredients.
+
+Team n°11 with 4 members, ordered 4 pizzas:
+	Pizza n°394 with 3 ingredients:
+		onions, emmental-cheese, cheddar, 
+	Pizza n°119 with 2 ingredients:
+		ham, cheddar, 
+	Pizza n°200 with 2 ingredients:
+		basil, mozzarella, 
+	Pizza n°378 with 2 ingredients:
+		mushrooms, basil, 
+There are 7 different ingredients.
+
+Team n°0 with 2 members, ordered 2 pizzas:
+	Pizza n°28 with 10 ingredients:
+		mushrooms, tomatoes, onions, pineapple, basil, ham, neapolitan-crust, emmental-cheese, mozzarella, cheddar, 
+	Pizza n°2 with 1 ingredients:
+		basil, 
+There are 10 different ingredients.
+
+Team n°1 with 2 members, ordered 2 pizzas:
+	Pizza n°93 with 10 ingredients:
+		mushrooms, tomatoes, onions, pineapple, neapolitan-crust, basil, ham, emmental-cheese, mozzarella, cheddar, 
+	Pizza n°49 with 1 ingredients:
+		mozzarella, 
+There are 10 different ingredients.
+
+Team n°2 with 2 members, ordered 2 pizzas:
+	Pizza n°190 with 10 ingredients:
+		mushrooms, tomatoes, onions, pineapple, ham, neapolitan-crust, basil, emmental-cheese, mozzarella, cheddar, 
+	Pizza n°37 with 1 ingredients:
+		emmental-cheese, 
+There are 10 different ingredients.
+
+Team n°3 with 2 members, ordered 2 pizzas:
+	Pizza n°197 with 10 ingredients:
+		mushrooms, tomatoes, onions, pineapple, ham, neapolitan-crust, basil, emmental-cheese, mozzarella, cheddar, 
+	Pizza n°58 with 1 ingredients:
+		ham, 
+There are 10 different ingredients.
+
+Team n°4 with 2 members, ordered 2 pizzas:
+	Pizza n°286 with 10 ingredients:
+		mushrooms, tomatoes, onions, pineapple, ham, neapolitan-crust, basil, emmental-cheese, mozzarella, cheddar, 
+	Pizza n°68 with 1 ingredients:
+		basil, 
+There are 10 different ingredients.
+
+Team n°5 with 2 members, ordered 2 pizzas:
+	Pizza n°369 with 10 ingredients:
+		mushrooms, tomatoes, onions, pineapple, ham, basil, neapolitan-crust, emmental-cheese, mozzarella, cheddar, 
+	Pizza n°82 with 1 ingredients:
+		ham, 
+There are 10 different ingredients.
+
+Team n°6 with 2 members, ordered 2 pizzas:
+	Pizza n°423 with 10 ingredients:
+		mushrooms, tomatoes, onions, pineapple, ham, neapolitan-crust, basil, emmental-cheese, mozzarella, cheddar, 
+	Pizza n°87 with 1 ingredients:
+		emmental-cheese, 
+There are 10 different ingredients.
+
+Team n°43 with 3 members, ordered 3 pizzas:
+	Pizza n°487 with 1 ingredients:
+		cheddar, 
+	Pizza n°196 with 10 ingredients:
+		mushrooms, tomatoes, onions, pineapple, basil, ham, neapolitan-crust, emmental-cheese, mozzarella, cheddar, 
+	Pizza n°98 with 1 ingredients:
+		cheddar, 
+There are 10 different ingredients.
+
+Team n°44 with 3 members, ordered 3 pizzas:
+	Pizza n°35 with 10 ingredients:
+		mushrooms, tomatoes, onions, pineapple, ham, basil, neapolitan-crust, emmental-cheese, mozzarella, cheddar, 
+	Pizza n°118 with 1 ingredients:
+		pineapple, 
+	Pizza n°134 with 1 ingredients:
+		neapolitan-crust, 
+There are 10 different ingredients.
+
+Team n°45 with 3 members, ordered 3 pizzas:
+	Pizza n°333 with 10 ingredients:
+		mushrooms, tomatoes, onions, pineapple, basil, ham, neapolitan-crust, emmental-cheese, mozzarella, cheddar, 
+	Pizza n°127 with 1 ingredients:
+		ham, 
+	Pizza n°150 with 1 ingredients:
+		basil, 
+There are 10 different ingredients.
+
+Team n°46 with 3 members, ordered 3 pizzas:
+	Pizza n°441 with 10 ingredients:
+		mushrooms, tomatoes, onions, pineapple, ham, basil, neapolitan-crust, emmental-cheese, mozzarella, cheddar, 
+	Pizza n°142 with 1 ingredients:
+		mushrooms, 
+	Pizza n°176 with 1 ingredients:
+		neapolitan-crust, 
+There are 10 different ingredients.
+
+Team n°47 with 3 members, ordered 3 pizzas:
+	Pizza n°165 with 9 ingredients:
+		mushrooms, tomatoes, onions, pineapple, neapolitan-crust, basil, emmental-cheese, mozzarella, cheddar, 
+	Pizza n°22 with 2 ingredients:
+		ham, neapolitan-crust, 
+	Pizza n°168 with 1 ingredients:
+		emmental-cheese, 
+There are 10 different ingredients.
+
+Team n°48 with 3 members, ordered 3 pizzas:
+	Pizza n°1 with 8 ingredients:
+		mushrooms, tomatoes, onions, pineapple, neapolitan-crust, emmental-cheese, mozzarella, cheddar, 
+	Pizza n°424 with 3 ingredients:
+		onions, ham, basil, 
+	Pizza n°184 with 1 ingredients:
+		emmental-cheese, 
+There are 10 different ingredients.
+
+Team n°49 with 3 members, ordered 3 pizzas:
+	Pizza n°279 with 8 ingredients:
+		mushrooms, tomatoes, pineapple, ham, basil, emmental-cheese, mozzarella, cheddar, 
+	Pizza n°437 with 3 ingredients:
+		onions, neapolitan-crust, emmental-cheese, 
+	Pizza n°205 with 1 ingredients:
+		basil, 
+There are 10 different ingredients.
+
+Team n°55 with 3 members, ordered 3 pizzas:
+	Pizza n°141 with 6 ingredients:
+		onions, pineapple, basil, neapolitan-crust, emmental-cheese, mozzarella, 
+	Pizza n°475 with 5 ingredients:
+		mushrooms, tomatoes, basil, ham, cheddar, 
+	Pizza n°215 with 1 ingredients:
+		neapolitan-crust, 
+There are 10 different ingredients.
+
+Team n°4 with 4 members, ordered 4 pizzas:
+	Pizza n°264 with 5 ingredients:
+		onions, pineapple, basil, ham, mozzarella, 
+	Pizza n°61 with 4 ingredients:
+		mushrooms, basil, emmental-cheese, cheddar, 
+	Pizza n°201 with 3 ingredients:
+		tomatoes, neapolitan-crust, ham, 
+	Pizza n°223 with 1 ingredients:
+		ham, 
+There are 10 different ingredients.
+
+Team n°12 with 4 members, ordered 4 pizzas:
+	Pizza n°280 with 2 ingredients:
+		mushrooms, onions, 
+	Pizza n°289 with 2 ingredients:
+		mozzarella, cheddar, 
+	Pizza n°325 with 2 ingredients:
+		ham, cheddar, 
+	Pizza n°461 with 2 ingredients:
+		tomatoes, cheddar, 
+There are 6 different ingredients.
+
+Team n°7 with 4 members, ordered 4 pizzas:
+	Pizza n°187 with 4 ingredients:
+		mushrooms, basil, emmental-cheese, mozzarella, 
+	Pizza n°117 with 3 ingredients:
+		onions, emmental-cheese, cheddar, 
+	Pizza n°149 with 3 ingredients:
+		tomatoes, onions, ham, 
+	Pizza n°229 with 1 ingredients:
+		tomatoes, 
+There are 8 different ingredients.
+
+Team n°13 with 4 members, ordered 4 pizzas:
+	Pizza n°446 with 2 ingredients:
+		mushrooms, tomatoes, 
+	Pizza n°260 with 1 ingredients:
+		neapolitan-crust, 
+	Pizza n°272 with 1 ingredients:
+		tomatoes, 
+	Pizza n°290 with 1 ingredients:
+		mozzarella, 
+There are 4 different ingredients.
+
+Team n°14 with 4 members, ordered 4 pizzas:
+	Pizza n°241 with 1 ingredients:
+		mushrooms, 
+	Pizza n°250 with 1 ingredients:
+		tomatoes, 
+	Pizza n°309 with 1 ingredients:
+		mushrooms, 
+	Pizza n°316 with 1 ingredients:
+		pineapple, 
+There are 3 different ingredients.
+
+Team n°15 with 4 members, ordered 4 pizzas:
+	Pizza n°297 with 1 ingredients:
+		mushrooms, 
+	Pizza n°338 with 1 ingredients:
+		emmental-cheese, 
+	Pizza n°344 with 1 ingredients:
+		emmental-cheese, 
+	Pizza n°355 with 1 ingredients:
+		pineapple, 
+There are 3 different ingredients.
+
+Team n°16 with 4 members, ordered 4 pizzas:
+	Pizza n°323 with 1 ingredients:
+		onions, 
+	Pizza n°382 with 1 ingredients:
+		mushrooms, 
+	Pizza n°393 with 1 ingredients:
+		cheddar, 
+	Pizza n°406 with 1 ingredients:
+		ham, 
+There are 4 different ingredients.
+
+Team n°17 with 4 members, ordered 4 pizzas:
+	Pizza n°370 with 1 ingredients:
+		basil, 
+	Pizza n°428 with 1 ingredients:
+		pineapple, 
+	Pizza n°456 with 1 ingredients:
+		ham, 
+	Pizza n°465 with 1 ingredients:
+		onions, 
+There are 4 different ingredients.
+
+Team n°18 with 4 members, ordered 4 pizzas:
+	Pizza n°416 with 1 ingredients:
+		emmental-cheese, 
+	Pizza n°479 with 1 ingredients:
+		tomatoes, 
+	Pizza n°485 with 1 ingredients:
+		neapolitan-crust, 
+	Pizza n°491 with 1 ingredients:
+		cheddar, 
+There are 4 different ingredients.
+
+Team n°28 with 4 members, ordered 4 pizzas:
+	Pizza n°292 with 4 ingredients:
+		mushrooms, tomatoes, ham, cheddar, 
+	Pizza n°387 with 4 ingredients:
+		pineapple, ham, neapolitan-crust, emmental-cheese, 
+	Pizza n°71 with 3 ingredients:
+		onions, neapolitan-crust, mozzarella, 
+	Pizza n°188 with 3 ingredients:
+		neapolitan-crust, basil, mozzarella, 
+There are 10 different ingredients.
+
+Team n°19 with 4 members, ordered 4 pizzas:
+	Pizza n°471 with 1 ingredients:
+		emmental-cheese, 
+	Pizza n°420 with 10 ingredients:
+		mushrooms, tomatoes, onions, pineapple, neapolitan-crust, basil, ham, emmental-cheese, mozzarella, cheddar, 
+	Pizza n°26 with 2 ingredients:
+		mushrooms, tomatoes, 
+	Pizza n°45 with 2 ingredients:
+		tomatoes, cheddar, 
+There are 10 different ingredients.
+
+Team n°20 with 4 members, ordered 4 pizzas:
+	Pizza n°97 with 10 ingredients:
+		mushrooms, tomatoes, onions, pineapple, neapolitan-crust, ham, basil, emmental-cheese, mozzarella, cheddar, 
+	Pizza n°100 with 2 ingredients:
+		ham, cheddar, 
+	Pizza n°115 with 2 ingredients:
+		onions, mozzarella, 
+	Pizza n°138 with 2 ingredients:
+		pineapple, basil, 
+There are 10 different ingredients.
+
+Team n°21 with 4 members, ordered 4 pizzas:
+	Pizza n°326 with 9 ingredients:
+		mushrooms, tomatoes, onions, pineapple, ham, basil, neapolitan-crust, emmental-cheese, mozzarella, 
+	Pizza n°235 with 3 ingredients:
+		tomatoes, emmental-cheese, cheddar, 
+	Pizza n°70 with 2 ingredients:
+		tomatoes, ham, 
+	Pizza n°207 with 2 ingredients:
+		basil, mozzarella, 
+There are 10 different ingredients.
+
+Team n°22 with 4 members, ordered 4 pizzas:
+	Pizza n°306 with 8 ingredients:
+		mushrooms, tomatoes, onions, pineapple, neapolitan-crust, ham, basil, emmental-cheese, 
+	Pizza n°236 with 4 ingredients:
+		tomatoes, ham, mozzarella, cheddar, 
+	Pizza n°172 with 2 ingredients:
+		neapolitan-crust, cheddar, 
+	Pizza n°284 with 2 ingredients:
+		basil, mozzarella, 
+There are 10 different ingredients.
+
+Team n°23 with 4 members, ordered 4 pizzas:
+	Pizza n°86 with 7 ingredients:
+		mushrooms, tomatoes, onions, pineapple, neapolitan-crust, basil, ham, 
+	Pizza n°5 with 4 ingredients:
+		onions, neapolitan-crust, emmental-cheese, mozzarella, 
+	Pizza n°302 with 3 ingredients:
+		mushrooms, mozzarella, cheddar, 
+	Pizza n°251 with 2 ingredients:
+		emmental-cheese, mozzarella, 
+There are 10 different ingredients.
+
+Team n°24 with 4 members, ordered 4 pizzas:
+	Pizza n°492 with 7 ingredients:
+		onions, pineapple, basil, ham, emmental-cheese, mozzarella, cheddar, 
+	Pizza n°175 with 4 ingredients:
+		tomatoes, onions, neapolitan-crust, emmental-cheese, 
+	Pizza n°339 with 2 ingredients:
+		onions, basil, 
+	Pizza n°425 with 2 ingredients:
+		mushrooms, tomatoes, 
+There are 10 different ingredients.
+
+Team n°25 with 4 members, ordered 4 pizzas:
+	Pizza n°158 with 6 ingredients:
+		tomatoes, onions, neapolitan-crust, ham, emmental-cheese, cheddar, 
+	Pizza n°445 with 4 ingredients:
+		basil, emmental-cheese, mozzarella, cheddar, 
+	Pizza n°123 with 3 ingredients:
+		onions, pineapple, basil, 
+	Pizza n°373 with 2 ingredients:
+		mushrooms, emmental-cheese, 
+There are 10 different ingredients.
+
+Team n°26 with 4 members, ordered 4 pizzas:
+	Pizza n°410 with 6 ingredients:
+		tomatoes, onions, basil, neapolitan-crust, emmental-cheese, cheddar, 
+	Pizza n°52 with 5 ingredients:
+		mushrooms, onions, ham, neapolitan-crust, mozzarella, 
+	Pizza n°364 with 3 ingredients:
+		pineapple, ham, neapolitan-crust, 
+	Pizza n°490 with 2 ingredients:
+		pineapple, ham, 
+There are 10 different ingredients.
+
+Team n°27 with 4 members, ordered 4 pizzas:
+	Pizza n°234 with 5 ingredients:
+		tomatoes, pineapple, neapolitan-crust, emmental-cheese, cheddar, 
+	Pizza n°376 with 5 ingredients:
+		tomatoes, onions, ham, basil, neapolitan-crust, 
+	Pizza n°10 with 3 ingredients:
+		tomatoes, basil, mozzarella, 
+	Pizza n°42 with 1 ingredients:
+		ham, 
+There are 9 different ingredients.
+
+Team n°29 with 4 members, ordered 4 pizzas:
+	Pizza n°429 with 3 ingredients:
+		onions, pineapple, ham, 
+	Pizza n°459 with 3 ingredients:
+		tomatoes, ham, mozzarella, 
+	Pizza n°63 with 1 ingredients:
+		basil, 
+	Pizza n°103 with 1 ingredients:
+		tomatoes, 
+There are 6 different ingredients.
+
+Team n°30 with 4 members, ordered 4 pizzas:
+	Pizza n°399 with 3 ingredients:
+		neapolitan-crust, basil, ham, 
+	Pizza n°84 with 1 ingredients:
+		basil, 
+	Pizza n°145 with 1 ingredients:
+		mozzarella, 
+	Pizza n°171 with 1 ingredients:
+		basil, 
+There are 4 different ingredients.
+
+Team n°31 with 4 members, ordered 4 pizzas:
+	Pizza n°131 with 1 ingredients:
+		pineapple, 
+	Pizza n°220 with 1 ingredients:
+		mozzarella, 
+	Pizza n°238 with 1 ingredients:
+		onions, 
+	Pizza n°255 with 1 ingredients:
+		basil, 
+There are 4 different ingredients.
+
+Team n°32 with 4 members, ordered 4 pizzas:
+	Pizza n°194 with 1 ingredients:
+		basil, 
+	Pizza n°305 with 1 ingredients:
+		mushrooms, 
+	Pizza n°318 with 1 ingredients:
+		emmental-cheese, 
+	Pizza n°342 with 1 ingredients:
+		mushrooms, 
+There are 3 different ingredients.
+
+Team n°33 with 4 members, ordered 4 pizzas:
+	Pizza n°281 with 1 ingredients:
+		pineapple, 
+	Pizza n°386 with 1 ingredients:
+		cheddar, 
+	Pizza n°413 with 1 ingredients:
+		mozzarella, 
+	Pizza n°436 with 1 ingredients:
+		tomatoes, 
+There are 4 different ingredients.
+
+Team n°34 with 4 members, ordered 4 pizzas:
+	Pizza n°366 with 1 ingredients:
+		ham, 
+	Pizza n°481 with 1 ingredients:
+		mushrooms, 
+	Pizza n°496 with 1 ingredients:
+		onions, 
+	Pizza n°252 with 10 ingredients:
+		mushrooms, tomatoes, onions, pineapple, neapolitan-crust, ham, basil, emmental-cheese, mozzarella, cheddar, 
+There are 10 different ingredients.
+
+Team n°35 with 4 members, ordered 4 pizzas:
+	Pizza n°469 with 1 ingredients:
+		pineapple, 
+	Pizza n°334 with 7 ingredients:
+		mushrooms, onions, pineapple, ham, basil, emmental-cheese, cheddar, 
+	Pizza n°155 with 5 ingredients:
+		pineapple, basil, neapolitan-crust, emmental-cheese, mozzarella, 
+	Pizza n°199 with 4 ingredients:
+		tomatoes, basil, emmental-cheese, cheddar, 
+There are 10 different ingredients.
+
+Team n°36 with 4 members, ordered 4 pizzas:
+	Pizza n°21 with 8 ingredients:
+		mushrooms, tomatoes, onions, pineapple, basil, neapolitan-crust, mozzarella, cheddar, 
+	Pizza n°99 with 3 ingredients:
+		onions, neapolitan-crust, basil, 
+	Pizza n°214 with 3 ingredients:
+		tomatoes, onions, neapolitan-crust, 
+	Pizza n°348 with 3 ingredients:
+		mushrooms, pineapple, basil, 
+There are 8 different ingredients.
+
+Team n°37 with 4 members, ordered 4 pizzas:
+	Pizza n°266 with 6 ingredients:
+		mushrooms, onions, pineapple, ham, mozzarella, cheddar, 
+	Pizza n°356 with 4 ingredients:
+		mushrooms, onions, basil, cheddar, 
+	Pizza n°499 with 4 ingredients:
+		tomatoes, pineapple, neapolitan-crust, basil, 
+	Pizza n°497 with 3 ingredients:
+		ham, basil, emmental-cheese, 
+There are 10 different ingredients.
+
+Team n°38 with 4 members, ordered 4 pizzas:
+	Pizza n°452 with 5 ingredients:
+		mushrooms, pineapple, emmental-cheese, mozzarella, cheddar, 
+	Pizza n°412 with 3 ingredients:
+		onions, pineapple, ham, 
+	Pizza n°107 with 2 ingredients:
+		basil, emmental-cheese, 
+	Pizza n°152 with 2 ingredients:
+		ham, mozzarella, 
+There are 8 different ingredients.
+
+Team n°39 with 4 members, ordered 4 pizzas:
+	Pizza n°56 with 2 ingredients:
+		mozzarella, cheddar, 
+	Pizza n°304 with 2 ingredients:
+		tomatoes, emmental-cheese, 
+	Pizza n°390 with 2 ingredients:
+		tomatoes, mozzarella, 
+	Pizza n°9 with 1 ingredients:
+		ham, 
+There are 5 different ingredients.
+
+Team n°40 with 4 members, ordered 4 pizzas:
+	Pizza n°237 with 2 ingredients:
+		onions, basil, 
+	Pizza n°125 with 1 ingredients:
+		cheddar, 
+	Pizza n°161 with 1 ingredients:
+		pineapple, 
+	Pizza n°209 with 1 ingredients:
+		cheddar, 
+There are 4 different ingredients.
+
+Team n°41 with 4 members, ordered 4 pizzas:
+	Pizza n°75 with 1 ingredients:
+		ham, 
+	Pizza n°293 with 1 ingredients:
+		emmental-cheese, 
+	Pizza n°331 with 1 ingredients:
+		neapolitan-crust, 
+	Pizza n°380 with 1 ingredients:
+		tomatoes, 
+There are 4 different ingredients.
+
+Team n°42 with 4 members, ordered 4 pizzas:
+	Pizza n°246 with 1 ingredients:
+		basil, 
+	Pizza n°477 with 1 ingredients:
+		mushrooms, 
+	Pizza n°33 with 9 ingredients:
+		mushrooms, tomatoes, onions, pineapple, neapolitan-crust, basil, emmental-cheese, mozzarella, cheddar, 
+	Pizza n°271 with 4 ingredients:
+		mushrooms, tomatoes, ham, mozzarella, 
+There are 10 different ingredients.
+
+Team n°43 with 4 members, ordered 4 pizzas:
+	Pizza n°418 with 1 ingredients:
+		pineapple, 
+	Pizza n°73 with 6 ingredients:
+		tomatoes, ham, neapolitan-crust, emmental-cheese, mozzarella, cheddar, 
+	Pizza n°310 with 5 ingredients:
+		mushrooms, tomatoes, basil, neapolitan-crust, mozzarella, 
+	Pizza n°276 with 3 ingredients:
+		pineapple, ham, neapolitan-crust, 
+There are 9 different ingredients.
+
+Team n°44 with 4 members, ordered 4 pizzas:
+	Pizza n°24 with 3 ingredients:
+		mushrooms, basil, neapolitan-crust, 
+	Pizza n°80 with 2 ingredients:
+		pineapple, cheddar, 
+	Pizza n°195 with 2 ingredients:
+		neapolitan-crust, basil, 
+	Pizza n°361 with 2 ingredients:
+		tomatoes, cheddar, 
+There are 6 different ingredients.
+
+Team n°45 with 4 members, ordered 4 pizzas:
+	Pizza n°442 with 3 ingredients:
+		tomatoes, onions, ham, 
+	Pizza n°137 with 1 ingredients:
+		cheddar, 
+	Pizza n°227 with 1 ingredients:
+		ham, 
+	Pizza n°313 with 1 ingredients:
+		pineapple, 
+There are 5 different ingredients.
+
+Team n°46 with 4 members, ordered 4 pizzas:
+	Pizza n°53 with 1 ingredients:
+		ham, 
+	Pizza n°488 with 1 ingredients:
+		basil, 
+	Pizza n°421 with 8 ingredients:
+		mushrooms, tomatoes, onions, ham, basil, emmental-cheese, mozzarella, cheddar, 
+	Pizza n°34 with 4 ingredients:
+		mushrooms, tomatoes, basil, emmental-cheese, 
+There are 8 different ingredients.
+
+Team n°47 with 4 members, ordered 4 pizzas:
+	Pizza n°402 with 1 ingredients:
+		tomatoes, 
+	Pizza n°36 with 2 ingredients:
+		onions, neapolitan-crust, 
+	Pizza n°269 with 2 ingredients:
+		neapolitan-crust, emmental-cheese, 
+	Pizza n°94 with 1 ingredients:
+		tomatoes, 
+There are 4 different ingredients.
+
+Team n°48 with 4 members, ordered 4 pizzas:
+	Pizza n°162 with 3 ingredients:
+		mushrooms, tomatoes, neapolitan-crust, 
+	Pizza n°458 with 1 ingredients:
+		mushrooms, 
+	Pizza n°495 with 6 ingredients:
+		mushrooms, pineapple, ham, basil, mozzarella, cheddar, 
+	Pizza n°391 with 3 ingredients:
+		onions, ham, neapolitan-crust, 
+There are 9 different ingredients.
+
+Team n°49 with 4 members, ordered 4 pizzas:
+	Pizza n°265 with 1 ingredients:
+		mushrooms, 
+	Pizza n°349 with 1 ingredients:
+		mozzarella, 
+	Pizza n°419 with 4 ingredients:
+		tomatoes, basil, ham, neapolitan-crust, 
+	Pizza n°179 with 1 ingredients:
+		mozzarella, 
+There are 6 different ingredients.
+
+
