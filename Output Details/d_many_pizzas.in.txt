@@ -4,7 +4,7 @@ d_many_pizzas.in
 There are 8 099 teams with 25 343 people.
 8 099 teams were delivered with 25 343 pizzas.
 There are 1 866,98 different ingredients.
-Execution time: 00h 00min 09s
+Execution time: 00h 00min 06s
 Score: 3 485 623
 
 Team n°57 with 2 members, ordered 2 pizzas:

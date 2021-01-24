@@ -13,16 +13,14 @@ list_file = [file_1, file_2, file_3, file_4, file_5]
 
 
 class Main():
-    """
-    Class allowing the reading of files
-    """
+    """Class allowing the reading of files"""
 
     def __init__(self, file: str) -> None:
         """
-        Initialization of the class
+        Initialization of the class.
 
         Args:
-            file (file text): input file
+            file (file text): Input file
         """
         self.file = file
         self.scrore = int()
@@ -41,7 +39,7 @@ class Main():
 
     def lecture(self) -> None:
         """
-        Reading the file
+        Reading the file.
         """
         k = int()
         self.list_teams = list()
@@ -73,7 +71,7 @@ class Main():
 
     def resolution(self) -> None:
         """
-        Solving the problem 
+        Solving the problem.
         """
         self.team_order = list()
         max_ingredient = int(self.list_pizzas[0].num_ingredients)
@@ -138,7 +136,7 @@ class Main():
 
     def write_answer(self) -> None:
         """
-        Writes the response file
+        Writes the response file.
         """
         chaine = str()
         f = open("Haschcode 2021\\Practice round\\Output\\" +
@@ -162,6 +160,12 @@ class Main():
         f.write(chaine + "\n")
 
     def __str__(self) -> str:
+        """
+        Generates a character string with class information.
+
+        Returns:
+            str: Character string with class information
+        """        
         chaine = 80 * "-"
         chaine += "\n" + self.file[36:] + "\n"
         chaine += "\nThere are {:n} teams with {:n} people.".format(
@@ -178,16 +182,16 @@ class Main():
 
 class Team():
     """
-    Team building class
+    Team building class.
     """
 
     def __init__(self, num_team: int, num_people: int) -> None:
         """
-        Initialization of the class
+        Initialization of the class.
 
         Args:
             num_team (int): team number
-            num_people (int): number of people 
+            num_people (int): number of people
         """
         self.num_team = int(num_team)
         self.num_people = int(num_people)
@@ -197,13 +201,13 @@ class Team():
 
     def order(self, pizza) -> None:
         """
-        We look at how many points the order earns 
+        We look at how many points the order earns.
 
         Args:
-            pizza (Pizza): The pizza ordered 
+            pizza (Pizza): the pizza ordered 
 
         Returns:
-            int: Points reported by the order 
+            int: points reported by the order
         """
         score = int()
         for ingredient in pizza.ingredients:
@@ -213,10 +217,10 @@ class Team():
 
     def confirm_order(self, pizza) -> None:
         """
-        We confirm that we take this pizza
+        We confirm that we take this pizza.
 
         Args:
-            pizza (Pizza): The pizza ordered 
+            pizza (Pizza): the pizza ordered 
         """
         self.list_order.append(pizza)
         for ingredient in pizza.ingredients:  # New ingredients are registered
@@ -225,6 +229,12 @@ class Team():
         self.score = len(self.list_ingredients)
 
     def __str__(self) -> str:
+        """
+        Generates a character string with class information.
+
+        Returns:
+            str: Character string with class information
+        """  
         chaine = "Team n°{:n} with {:n} members, ordered {:n} pizzas:\n".format(
             self.num_team, self.num_people, len(self.list_order))
         for pizza in self.list_order:
@@ -236,18 +246,18 @@ class Team():
 
 class Pizza():
     """
-    Pizza creation class
+    Pizza creation class.
     """
 
     def __init__(self, num_pizza: int, num_ingredients: int,
                  ingredients: list) -> None:
         """
-        Initialization of the class
+        Initialization of the class.
 
         Args:
-            num_pizza (int): Number of pizzas ordered
-            num_ingredients (int): Number of different ingredients
-            ingredients (list): List of different ingredients
+            num_pizza (int): number of pizzas ordered
+            num_ingredients (int): number of different ingredients
+            ingredients (list): list of different ingredients
         """
         self.num_pizza = num_pizza
         self.num_ingredients = int(num_ingredients)
@@ -255,6 +265,12 @@ class Pizza():
         self.ingredients = ingredients
 
     def __str__(self) -> str:
+        """
+        Generates a character string with class information.
+
+        Returns:
+            str: Character string with class information
+        """  
         chaine = "Pizza n°{:n} with {:n} ingredients:\n\t\t".format(
             self.num_pizza, self.num_ingredients)
         for ingredient in self.ingredients:
