@@ -26,12 +26,12 @@ For each delivery, the delivery score i s the s quare of the total number of dif
 It is important to have read [the instructions for the competition](practice_round_2021_v2.pdf) beforehand, to understand the rest.
 
 While reading the file, we create our teams and pizzas in the classrooms. Then we sort them in descending order:
-- The pizzas according to the number of ingredients
-- Teams by number of members
+-  The pizzas according to the number of ingredients
+-  Teams by number of members
 
 Then a limit of common ingredients is given between the pizza and the team.
 
-#### First step.
+#### First step
 First 0, 1, 2, ..., maximum possible ingredients.
 As soon as a pizza finds a team in the list of available teams, with a number of ingredients less than or equal to the current limit, it is added to the team's order list. We move on to the next pizza and start again.
 If a team has the maximum number of pizzas possible ordered, it is removed from the list of available teams. This reduces the number of teams in which you are looking for a place.
@@ -64,5 +64,5 @@ e_many_teams.in | 118 775 | 346 409 | 100 000 | 46 582 | 99 998 | 5 697 910 | 00
 The calculated score is confirmed by the [Judge System of the HashCode](images/Score_google.png).
 
 ### Limits ⚠️
-- No unit test
-- At the time of publication, no score comparison is available. 
+-  No unit test
+-  At the time of publication, no score comparison is available. 

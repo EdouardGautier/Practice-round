@@ -33,12 +33,12 @@ It is important to have read the instructions for the competition
 
 While reading the file, we create our teams and pizzas in the classrooms. Then
 we sort them in descending order:
-- The pizzas according to the number of ingredients
-- Teams by number of members
+-  The pizzas according to the number of ingredients
+-  Teams by number of members
 
 Then a limit of common ingredients is given between the pizza and the team.
 
-#### First step.
+#### First step
 First 0, 1, 2, ..., maximum possible ingredients.
 As soon as a pizza finds a team in the list of available teams, with a number
 of ingredients less than or equal to the current limit, it is added to the
@@ -79,5 +79,5 @@ The calculated score is confirmed by the Judge System of the HashCode
 (images/Score_google.png).
 
 ### Limits ⚠
-- No unit test
-- At the time of publication, no score comparison is available. 
+-  No unit test
+-  At the time of publication, no score comparison is available. 
