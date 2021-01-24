@@ -13,6 +13,7 @@ list_file = [file_1, file_2, file_3, file_4, file_5]
 
 
 class Main():
+
     """Class allowing the reading of files"""
 
     def __init__(self, file: str) -> None:
@@ -165,7 +166,7 @@ class Main():
 
         Returns:
             str: Character string with class information
-        """        
+        """
         chaine = 80 * "-"
         chaine += "\n" + self.file[36:] + "\n"
         chaine += "\nThere are {:n} teams with {:n} people.".format(
@@ -204,7 +205,7 @@ class Team():
         We look at how many points the order earns.
 
         Args:
-            pizza (Pizza): the pizza ordered 
+            pizza (Pizza): the pizza ordered
 
         Returns:
             int: points reported by the order
