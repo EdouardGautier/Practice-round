@@ -4,7 +4,7 @@ c_many_ingredients.in
 There are 1 628 teams with 4 965 people.
 1 628 teams were delivered with 4 965 pizzas.
 There are 14 533,9 different ingredients.
-Execution time: 00h 10min 09s
+Execution time: 00h 08min 37s
 Score: 211 233 622
 
 Team n°276 with 2 members, ordered 2 pizzas:
