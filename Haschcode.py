@@ -1,15 +1,16 @@
 import locale
 import time as time
 
+# Adds local display settings
 my_locale = locale.setlocale(locale.LC_ALL, "")
 
-file_1 = "Haschcode 2021\\Practice round\\Input\\a_example"
-file_2 = "Haschcode 2021\\Practice round\\Input\\b_little_bit_of_everything.in"
-file_3 = "Haschcode 2021\\Practice round\\Input\\c_many_ingredients.in"
-file_4 = "Haschcode 2021\\Practice round\\Input\\d_many_pizzas.in"
-file_5 = "Haschcode 2021\\Practice round\\Input\\e_many_teams.in"
+FILE_1 = "Haschcode 2021\\Practice round\\Input\\a_example"
+FILE_2 = "Haschcode 2021\\Practice round\\Input\\b_little_bit_of_everything.in"
+FILE_3 = "Haschcode 2021\\Practice round\\Input\\c_many_ingredients.in"
+FILE_4 = "Haschcode 2021\\Practice round\\Input\\d_many_pizzas.in"
+FILE_5 = "Haschcode 2021\\Practice round\\Input\\e_many_teams.in"
 
-list_file = [file_1, file_2, file_3, file_4, file_5]
+LISTE_FILE = [FILE_1, FILE_2, FILE_3, FILE_4, FILE_5]
 
 
 class Main():
@@ -55,7 +56,7 @@ class Main():
                 self.list_teams.append(Team(k + j, i+1))
             k += i
         # Sorting according to the number of menbre
-        self.list_teams.sort(key=lambda k: k.num_people, reverse=False)
+        self.list_teams.sort(key=lambda k: k.num_people, reverse=True)
 
         # Creation of pizzas
         for i in range(0, num_pizza):
@@ -79,11 +80,10 @@ class Main():
 
         # First step
         # Max number of ingredients in common per pizza
-        for min_score in range(0, max_ingredient):
+        for min_score in range(0, max_ingredient + 1):
             for pizza in self.list_pizzas:  # Pizza is looking for a team
                 for team in self.list_teams:
-                    # If there is room left in the team and
-                    # if the number of ingredients
+                    # If the number of ingredients
                     # in common is less than min_score
                     if len(team.list_order) < team.num_people and \
                             team.order(pizza) <= min_score:
@@ -91,44 +91,46 @@ class Main():
                         # It is withdrawn from the pizzas available
                         self.list_pizzas.remove(pizza)
                         break
-                    # The team has no more room
+                    # The team has no more place
                     elif len(team.list_order) == team.num_people:
                         # It is withdrawn from the teams available
                         self.list_teams.remove(team)
                         # It is added to the teams that have ordered
                         self.team_order.append(team)
-
-        self.list_teams.sort(key=lambda k: k.score,
-                             reverse=True)  # Sort by score
+            self.list_teams.sort(key=lambda k: k.score,
+                                 reverse=True)   # Sort by score
 
         # Second step
         # We add all the pizzas where there's room left over
-        while len(self.list_pizzas) > 0:
-            try:
-                if self.list_teams[0].num_people == \
-                        len(self.list_teams[0].list_order):
-                    self.team_order.append(self.list_teams[0])
-                    del self.list_teams[0]
-                else:
-                    self.list_teams[0].confirm_order(self.list_pizzas[0])
-                    del self.list_pizzas[0]
-            except IndexError:
-                break
+        for team in self.list_teams:
+            while len(team.list_order) < team.num_people and len(self.list_pizzas) > 0:
+                team.list_order.append(self.list_pizzas[0])
+                del self.list_pizzas[0]
+            if len(team.list_order) == team.num_people:
+                self.list_teams.remove(team)
+                self.team_order.append(team)
+
+        # We remove all teams without pizzas
+        try:
+            while len(self.list_teams[-1].list_order) == 0:
+                del self.list_teams[-1]
+        except IndexError:
+            pass
 
         # Third step
         # The teams with the lowest score give the teams with the highest score
         # to fill the remaining place
         for team in self.list_teams:
-            for pizza in self.list_teams[-1].list_order:
-                if len(team.list_order) == team.num_people:
-                    self.team_order.append(team)
-                    self.list_teams.remove(team)
-                    break
-                else:
+            if len(self.list_teams[-1].list_order) == 0:
+                del self.list_teams[-1]
+            else:
+                for pizza in self.list_teams[-1].list_order:
                     self.list_teams[-1].list_order.remove(pizza)
                     team.confirm_order(pizza)
-                    if len(self.list_teams[-1].list_order) == 0:
-                        del self.list_teams[-1]
+                    if len(team.list_order) == team.num_people:
+                        self.team_order.append(team)
+                        self.list_teams.remove(team)
+                        break
 
         # Data for display
         self.num_order = len(self.team_order)
@@ -147,9 +149,9 @@ class Main():
             chaine += str(team.num_people) + " "
             for pizza in team.list_order:
                 chaine += str(pizza.num_pizza) + " "
+            self.scrore += len(team.list_ingredients)**2
             f.write(chaine + "\n")
             chaine = str()
-            self.scrore += len(team.list_ingredients)**2
 
     def write_detail(self) -> None:
         chaine = str()
@@ -173,7 +175,7 @@ class Main():
             self.num_teams, self.num_people)
         chaine += "\n{:n} teams were delivered with {:n} pizzas.".format(
             self.num_order, self.num_pizza_order)
-        chaine += "\nThere are {:n} different ingredients.".format(
+        chaine += "\nThere are {:n} differents ingredients.".format(
             self.scrore**(1/2))
         chaine += "\nExecution time: " + \
             time.strftime("%Hh %Mmin %Ss", time.gmtime(self.time))
@@ -235,12 +237,12 @@ class Team():
 
         Returns:
             str: Character string with class information
-        """  
+        """
         chaine = "Team n°{:n} with {:n} members, ordered {:n} pizzas:\n".format(
             self.num_team, self.num_people, len(self.list_order))
         for pizza in self.list_order:
             chaine += "\t" + str(pizza) + "\n"
-        chaine += "There are {:n} different ingredients.\n\n".format(
+        chaine += "There are {:n} differents ingredients.\n\n".format(
             len(self.list_ingredients))
         return chaine
 
@@ -257,8 +259,8 @@ class Pizza():
 
         Args:
             num_pizza (int): number of pizzas ordered
-            num_ingredients (int): number of different ingredients
-            ingredients (list): list of different ingredients
+            num_ingredients (int): number of differents ingredients
+            ingredients (list): list of differents ingredients
         """
         self.num_pizza = num_pizza
         self.num_ingredients = int(num_ingredients)
@@ -271,7 +273,7 @@ class Pizza():
 
         Returns:
             str: Character string with class information
-        """  
+        """
         chaine = "Pizza n°{:n} with {:n} ingredients:\n\t\t".format(
             self.num_pizza, self.num_ingredients)
         for ingredient in self.ingredients:
@@ -283,10 +285,11 @@ if __name__ == "__main__":
     score = int()
     temps = int()
     print(80 * "#")
-    for file in list_file:
+    for file in LISTE_FILE:
         main = Main(file)
         score += main.scrore
         temps += main.time
+
     print("\nTotal score: {:n}".format(score), "\nTemps total: ",
           time.strftime("%Hh %Mmin %Ss", time.gmtime(temps)))
     print(80 * "#")

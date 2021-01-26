@@ -38,7 +38,7 @@ If a team has the maximum number of pizzas possible ordered, it is removed from 
 
 #### Second step
 Pizzas that can earn points have been placed.
-With the remaining pizzas we put them in the teams where there is still room, without any other criteria.
+With the remaining pizzas we put them in the teams where there is still place, without any other criteria.
 Thanks to this, the number of teams with a complete order can be further increased.
 
 #### Third step
@@ -52,17 +52,18 @@ The aim here is to make orders for as many teams as possible.
 
 This is calculated directly by the script.
 
-File | Number of teams | Number of people | Number of pizza | Number of teams delivered | Number of pizza delivered | Score | Time 
------------- | ------------- | ------------ | ------------- | ------------ | ------------ | ------------ | ------------ |
-a_example | 4 | 12 | 5 | 1 | 2 | 25 | 00h 00min 00s |
-b_little_bit_of_everything.in | 185 | 550 | 500 | 172 | 498 | 10 189 | 00h 00min 00s |
-c_many_ingredients.in | 1 628 | 4 965 | 10 000 | 1 628 | 4 965 | 211 233 622 | 00h 08min 37s |
-d_many_pizzas.in | 8 099 | 25 343 | 100 000 | 8 099 | 25 343 | 3 485 623 | 00h 00min 06s |
-e_many_teams.in | 118 775 | 346 409 | 100 000 | 46 582 | 99 998 | 5 697 910 | 00h 00min 28s |
-**Total** | **128 691** | **377 279** | **210 505** | **56 482** | **130 806** | **220 427 369** | **00h 09min 11s** |
+File                          | Number of teams | Number of people | Number of pizza | Number of teams delivered | Number of pizza delivered | Score           | Time              |
+----------------------------- | --------------- | ---------------- | --------------- | ------------------------- | ------------------------- | --------------- | ----------------- |
+a_example                     | 4               | 12               | 5               | 1                         | 4                         | 49              | 00h 00min 00s     |
+b_little_bit_of_everything.in | 185             | 550              | 500             | 160                       | 500                       | 11 017          | 00h 00min 00s     |
+c_many_ingredients.in         | 1 628           | 4 965            | 10 000          | 1 628                     | 4 965                     | 298 675 358     | 00h 16min 11s     |
+d_many_pizzas.in              | 8 099           | 25 343           | 100 000         | 8 099                     | 25 343                    | 4 895 657       | 00h 00min 20s     |
+e_many_teams.in               | 118 775         | 346 409          | 100 000         | 24 999                    | 99 996                    | 10 255 186      | 00h 00min 52s     |
+**Total**                     | **128 691**     | **377 279**      | **210 505**     | **34 887**                | **261 614**               | **313 837 267** | **00h 17min 24s** |
 
 The calculated score is confirmed by the [Judge System of the HashCode](images/Score_google.png).
 
 ### Limits ⚠️
 -  No unit test
--  At the time of publication, no score comparison is available. 
+-  At the time of publication, no score comparison is available
+-  It resolves quickly but gives an average score
