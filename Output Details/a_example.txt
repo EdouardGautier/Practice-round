@@ -2,20 +2,9 @@
 a_example
 
 There are 4 teams with 12 people.
-1 teams were delivered with 4 pizzas.
-There are 7 differents ingredients.
+0 teams were delivered with 0 pizzas.
+There are 0 differents ingredients.
 Execution time: 00h 00min 00s
-Score: 49
-
-Team n°3 with 4 members, ordered 4 pizzas:
-	Pizza n°0 with 3 ingredients:
-		onion, pepper, olive, 
-	Pizza n°4 with 2 ingredients:
-		chicken, basil, 
-	Pizza n°1 with 3 ingredients:
-		mushroom, tomato, basil, 
-	Pizza n°2 with 3 ingredients:
-		chicken, mushroom, pepper, 
-There are 7 differents ingredients.
+Score: 0
 
 
